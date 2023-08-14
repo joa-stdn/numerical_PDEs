@@ -1,2 +1,7 @@
-# numerical_PDEs
-A few corrected problems from Partial Differential Equations with Numerical Methods (Larsson &amp; Thomée) - Stanford CME306 (Spring 2023)
+# A few corrected problems on Numerical Methods for Partial Differential Equations
+
+This repository contains Jupyter notebooks with some implementations 
+of a few selected computer problems from [1].
+
+### Main reference
+[1] Stig Larsson, Vidar Thomée, *Partial Differential Equations with Numerical Methods*, 2003
